@@ -1,7 +1,11 @@
 package Module1.Lab2;
+
 import java.util.Scanner;
 import java.util.Stack;
+
 public class QueuingUsingTwoStacks {
+
+    //#######
     static void processQueries(String input) {
         String[] queries = input.split(",");
         Stack<Integer> stack1 = new Stack<>();

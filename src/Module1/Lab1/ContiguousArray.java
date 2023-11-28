@@ -6,8 +6,9 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-
 public class ContiguousArray {
+
+    //#######
     public static int findMaxLength(int[] nums) {
         if (nums == null || nums.length == 0) {
             return 0;

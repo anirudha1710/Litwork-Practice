@@ -1,8 +1,12 @@
 package Module1.Lab2;
+
 import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;
+
 public class ValidSudoku {
+
+    //#######
     public static boolean isValidSudoku(char[][] board) {
 
         Set<Character>[] rows = new HashSet[9];
