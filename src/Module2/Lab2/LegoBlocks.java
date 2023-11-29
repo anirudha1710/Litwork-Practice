@@ -2,7 +2,10 @@ package Module2.Lab2;
 
 import java.util.Arrays;
 import java.util.Scanner;
+
 public class LegoBlocks {
+
+    //#######
     private static final int MOD = 1000000007;
     private static final int MAX_SIZE = 1000 + 1;
     private static final int UNKNOWN = -1;

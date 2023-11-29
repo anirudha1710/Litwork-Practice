@@ -3,7 +3,10 @@ package Module2.Lab1;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
+
 public class SimpleTextEditor {
+
+    //#######
     public static void main(String[] args) {
         CustomStack customStack = new CustomStack();
 
